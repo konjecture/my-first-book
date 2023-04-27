@@ -10,13 +10,22 @@ var ptx_lunr_docs = [
   "body": "   example.org   https:\/\/example.org   copyright  "
 },
 {
-  "id": "section-title",
+  "id": "bernoulli_eqns",
   "level": "1",
-  "url": "section-title.html",
+  "url": "bernoulli_eqns.html",
   "type": "Section",
   "number": "1.1",
-  "title": "Section title",
-  "body": " Section title  Hello  "
+  "title": "Bernoulli Equation",
+  "body": " Bernoulli Equation    A Bernoulli Equation is of the form    > "
+},
+{
+  "id": "def-bern_eqn",
+  "level": "2",
+  "url": "bernoulli_eqns.html#def-bern_eqn",
+  "type": "Definition",
+  "number": "1.1.1",
+  "title": "",
+  "body": "  A Bernoulli Equation is of the form    "
 },
 {
   "id": "colophon-2",
