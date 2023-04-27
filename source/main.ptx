@@ -46,12 +46,22 @@
       </colophon>
     </frontmatter>
 
-    <chapter xml:id="chapter-title">
-      <title>Chapter title</title>
+    <chapter xml:id="sub_methods">
+      <title>CSubstitution Methods</title>
 
-      <section xml:id="section-title">
-        <title>Section title</title>
-        <p>Hello</p>
+      <section xml:id="bernoulli_eqns">
+        <title>Bernoulli Equation</title>
+        <definition xml:id="def-bern_eqn">
+          <statement>
+            <p>
+              A Bernoulli Equation is of the form
+              <me>
+                \frac{dy}{dx} + P(x)y = Q(x)y^n
+              </me>
+              
+            </p>
+          </statement>
+        </definition>>
       </section>
 
     </chapter>
